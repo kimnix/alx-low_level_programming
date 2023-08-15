@@ -1,9 +1,9 @@
 
 #include "main.h"
 /**
- * main to print _putchar
+ * main-print _putchar
  * is written by xonkim
- * Return value: 0
+ * Return: 0
  */
 
 
