@@ -1,5 +1,12 @@
 
 #include "main.h"
+/**
+ * main to print _putchar
+ * is written by xonkim
+ * Return value: 0
+ */
+
+
 int main(void)
 {
 _putchar('_');
